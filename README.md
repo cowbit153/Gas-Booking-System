@@ -1,5 +1,6 @@
 # Online-Gas-Booking-System
 made for school, uses python, mysql and mysql.connector(it was the only one we could use)
+i plan on porting it to tkinter or something
 
 How to use:
 1. Install mysql.connector by this command 'pip install mysql-connector-python'
